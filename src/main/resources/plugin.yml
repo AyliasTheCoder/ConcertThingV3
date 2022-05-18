@@ -1,0 +1,5 @@
+name: ConcertThing3
+version: 1.0
+author: Aylias
+main: org.dotwavpresents.concert.thing.v3.Main
+api-version: 1.17
